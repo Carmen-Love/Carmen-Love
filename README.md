@@ -1,16 +1,39 @@
-## Hi there 👋
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<h1 align="center">Hola 👋  soy Amada Medina ✨ </h1> 
+  </p>
+<br>
+<h1 align=center>Sobre mi 😃</h1>
+<!--Intro start-->
 
-<!--
-**Carmen-Love/Carmen-Love** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ 🎓 INGENIERO EN COMPUTACION
+💻 Desarrolladora full-stack e IA developer
 
-Here are some ideas to get you started:
+📫 Contacto: **amadamedina190@gmail.com**  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+<h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
+<!--tech stack icons-->
+<div align=center>
+   <h3>Frontend</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind&theme=light" />
+  </a>
+  <h3>Backend</h3>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
+  </a>
+   <h3>AI Engineering</h3>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
+  </a>
+    <h3>Tools</h3>
+     <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
+  </a>
+  </div>
+<br>
+<div align=center>
